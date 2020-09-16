@@ -1,0 +1,18 @@
+{
+  "name": "ipc-chunk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thzt/ipc-chunk.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thzt/ipc-chunk/issues"
+  },
+  "homepage": "https://github.com/thzt/ipc-chunk#readme"
+}

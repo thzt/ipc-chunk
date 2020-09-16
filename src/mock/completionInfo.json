@@ -1,0 +1,5495 @@
+{
+  "seq": 0,
+  "type": "response",
+  "command": "completionInfo",
+  "request_seq": 122,
+  "success": true,
+  "performanceData": {
+    "updateGraphDurationMs": 8
+  },
+  "body": {
+    "isGlobalCompletion": false,
+    "isMemberCompletion": true,
+    "isNewIdentifierLocation": false,
+    "entries": [
+      {
+        "name": "__dirname",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "__filename",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "AbortController",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "AbortSignal",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "AbstractRange",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "ActiveXObject",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "addEventListener",
+        "kind": "method",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "AggregateError",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "alert",
+        "kind": "method",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "AnalyserNode",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "Animation",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "AnimationEffect",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "AnimationEvent",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "AnimationPlaybackEvent",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "AnimationTimeline",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "applicationCache",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "ApplicationCache",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "Array",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "ArrayBuffer",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "atob",
+        "kind": "method",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "Atomics",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "Attr",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "Audio",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "AudioBuffer",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "AudioBufferSourceNode",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "AudioContext",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "AudioDestinationNode",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "AudioListener",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "AudioNode",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "AudioParam",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "AudioParamMap",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "AudioProcessingEvent",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "AudioScheduledSourceNode",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "AudioWorklet",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "AudioWorkletNode",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "AuthenticatorAssertionResponse",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "AuthenticatorAttestationResponse",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "AuthenticatorResponse",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "BarProp",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "BaseAudioContext",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "BeforeUnloadEvent",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "BhxBrowser",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "BigInt",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "BigInt64Array",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "BigUint64Array",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "BiquadFilterNode",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "Blob",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "blur",
+        "kind": "method",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "Boolean",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "BroadcastChannel",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "btoa",
+        "kind": "method",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "ByteLengthQueuingStrategy",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "Cache",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "caches",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "CacheStorage",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "cancelAnimationFrame",
+        "kind": "method",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "CanvasGradient",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "CanvasPattern",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "CanvasRenderingContext2D",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "captureEvents",
+        "kind": "method",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "CaretPosition",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "CDATASection",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "ChannelMergerNode",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "ChannelSplitterNode",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "CharacterData",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "clearImmediate",
+        "kind": "function",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "clearInterval",
+        "kind": "method",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "clearTimeout",
+        "kind": "method",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "clientInformation",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "ClientRect",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "ClientRectList",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "Clipboard",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "ClipboardEvent",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "close",
+        "kind": "method",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "closed",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "CloseEvent",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "Comment",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "CompositionEvent",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "confirm",
+        "kind": "method",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "console",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "ConstantSourceNode",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "ConvolverNode",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "CountQueuingStrategy",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "createImageBitmap",
+        "kind": "method",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "Credential",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "CredentialsContainer",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "crypto",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "Crypto",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "CryptoKey",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "CryptoKeyPair",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "CSS",
+        "kind": "module",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "CSSConditionRule",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "CSSFontFaceRule",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "CSSGroupingRule",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "CSSImportRule",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "CSSKeyframeRule",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "CSSKeyframesRule",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "CSSMediaRule",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "CSSNamespaceRule",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "CSSPageRule",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "CSSRule",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "CSSRuleList",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "CSSStyleDeclaration",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "CSSStyleRule",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "CSSStyleSheet",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "CSSSupportsRule",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "CustomElementRegistry",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "customElements",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "CustomEvent",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "DataCue",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "DataTransfer",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "DataTransferItem",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "DataTransferItemList",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "DataView",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "Date",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "decodeURI",
+        "kind": "function",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "decodeURIComponent",
+        "kind": "function",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "defaultStatus",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "DeferredPermissionRequest",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "DelayNode",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "departFocus",
+        "kind": "method",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "DeviceAcceleration",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "DeviceLightEvent",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "DeviceMotionEvent",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "DeviceOrientationEvent",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "devicePixelRatio",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "DeviceRotationRate",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "dispatchEvent",
+        "kind": "method",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "document",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "Document",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "DocumentFragment",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "DocumentTimeline",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "DocumentType",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "DOMError",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "DOMException",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "DOMImplementation",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "DOMMatrix",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "DOMMatrixReadOnly",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "DOMParser",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "DOMPoint",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "DOMPointReadOnly",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "DOMQuad",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "DOMRect",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "DOMRectList",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "DOMRectReadOnly",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "DOMSettableTokenList",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "DOMStringList",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "DOMStringMap",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "DOMTokenList",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "doNotTrack",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "DragEvent",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "DynamicsCompressorNode",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "Element",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "encodeURI",
+        "kind": "function",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "encodeURIComponent",
+        "kind": "function",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "Enumerator",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "Error",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "ErrorEvent",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "escape",
+        "kind": "function",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "eval",
+        "kind": "function",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "EvalError",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "event",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "Event",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "EventSource",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "EventTarget",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "exports",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "ExtensionScriptApis",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "external",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "External",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "fetch",
+        "kind": "method",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "File",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "FileList",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "FileReader",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "Float32Array",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "Float64Array",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "focus",
+        "kind": "method",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "FocusEvent",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "FocusNavigationEvent",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "FormData",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "frameElement",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "frames",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "Function",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "GainNode",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "Gamepad",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "GamepadButton",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "GamepadEvent",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "GamepadHapticActuator",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "GamepadPose",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "getComputedStyle",
+        "kind": "method",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "getMatchedCSSRules",
+        "kind": "method",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "getSelection",
+        "kind": "method",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "global",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "globalThis",
+        "kind": "module",
+        "kindModifiers": "",
+        "sortText": "0"
+      },
+      {
+        "name": "HashChangeEvent",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "Headers",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "history",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "History",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "HTMLAllCollection",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "HTMLAnchorElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "HTMLAppletElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "HTMLAreaElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "HTMLAudioElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "HTMLBaseElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "HTMLBaseFontElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "HTMLBodyElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "HTMLBRElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "HTMLButtonElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "HTMLCanvasElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "HTMLCollection",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "HTMLDataElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "HTMLDataListElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "HTMLDetailsElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "HTMLDialogElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "HTMLDirectoryElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "HTMLDivElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "HTMLDListElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "HTMLDocument",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "HTMLElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "HTMLEmbedElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "HTMLFieldSetElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "HTMLFontElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "HTMLFormControlsCollection",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "HTMLFormElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "HTMLFrameElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "HTMLFrameSetElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "HTMLHeadElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "HTMLHeadingElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "HTMLHRElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "HTMLHtmlElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "HTMLIFrameElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "HTMLImageElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "HTMLInputElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "HTMLLabelElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "HTMLLegendElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "HTMLLIElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "HTMLLinkElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "HTMLMapElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "HTMLMarqueeElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "HTMLMediaElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "HTMLMenuElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "HTMLMetaElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "HTMLMeterElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "HTMLModElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "HTMLObjectElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "HTMLOListElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "HTMLOptGroupElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "HTMLOptionElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "HTMLOptionsCollection",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "HTMLOutputElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "HTMLParagraphElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "HTMLParamElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "HTMLPictureElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "HTMLPreElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "HTMLProgressElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "HTMLQuoteElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "HTMLScriptElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "HTMLSelectElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "HTMLSlotElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "HTMLSourceElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "HTMLSpanElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "HTMLStyleElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "HTMLTableCaptionElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "HTMLTableCellElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "HTMLTableColElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "HTMLTableDataCellElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "HTMLTableElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "HTMLTableHeaderCellElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "HTMLTableRowElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "HTMLTableSectionElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "HTMLTemplateElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "HTMLTextAreaElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "HTMLTimeElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "HTMLTitleElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "HTMLTrackElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "HTMLUListElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "HTMLUnknownElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "HTMLVideoElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "IDBCursor",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "IDBCursorWithValue",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "IDBDatabase",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "IDBFactory",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "IDBIndex",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "IDBKeyRange",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "IDBObjectStore",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "IDBOpenDBRequest",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "IDBRequest",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "IDBTransaction",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "IDBVersionChangeEvent",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "IIRFilterNode",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "Image",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "ImageBitmap",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "ImageBitmapRenderingContext",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "ImageData",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "importScripts",
+        "kind": "function",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "indexedDB",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "Infinity",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "innerHeight",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "innerWidth",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "InputDeviceInfo",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "InputEvent",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "Int16Array",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "Int32Array",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "Int8Array",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "IntersectionObserver",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "IntersectionObserverEntry",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "Intl",
+        "kind": "module",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "isFinite",
+        "kind": "function",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "isNaN",
+        "kind": "function",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "isSecureContext",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "JSON",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "KeyboardEvent",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "KeyframeEffect",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "length",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "ListeningStateChangedEvent",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "localStorage",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "location",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "Location",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "locationbar",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "Long",
+        "kind": "alias",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "Map",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "matchMedia",
+        "kind": "method",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "Math",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "MediaDeviceInfo",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "MediaDevices",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "MediaElementAudioSourceNode",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "MediaEncryptedEvent",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "MediaError",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "MediaKeyMessageEvent",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "MediaKeys",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "MediaKeySession",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "MediaKeyStatusMap",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "MediaKeySystemAccess",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "MediaList",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "MediaQueryList",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "MediaQueryListEvent",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "MediaSource",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "MediaStream",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "MediaStreamAudioDestinationNode",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "MediaStreamAudioSourceNode",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "MediaStreamError",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "MediaStreamErrorEvent",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "MediaStreamEvent",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "MediaStreamTrack",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "MediaStreamTrackAudioSourceNode",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "MediaStreamTrackEvent",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "menubar",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "MessageChannel",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "MessageEvent",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "MessagePort",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "MimeType",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "MimeTypeArray",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "module",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "MouseEvent",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "moveBy",
+        "kind": "method",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "moveTo",
+        "kind": "method",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "MSAssertion",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "MSBlobBuilder",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "msContentScript",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "MSFIDOCredentialAssertion",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "MSFIDOSignature",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "MSFIDOSignatureAssertion",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "MSGesture",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "MSGestureEvent",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "MSGraphicsTrust",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "MSInputMethodContext",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "MSMediaKeyError",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "MSMediaKeyMessageEvent",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "MSMediaKeyNeededEvent",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "MSMediaKeys",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "MSMediaKeySession",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "MSPointerEvent",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "MSStream",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "msWriteProfilerMark",
+        "kind": "method",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "MutationEvent",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "MutationObserver",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "MutationRecord",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "name",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "NamedNodeMap",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "NaN",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "NavigationPreloadManager",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "navigator",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "Navigator",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "Node",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "NodeFilter",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "NodeIterator",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "NodeList",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "Notification",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "Number",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "Object",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "OfflineAudioCompletionEvent",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "OfflineAudioContext",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "offscreenBuffering",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "OffscreenCanvas",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "OffscreenCanvasRenderingContext2D",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "onabort",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "onafterprint",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "onanimationcancel",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "onanimationend",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "onanimationiteration",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "onanimationstart",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "onauxclick",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "onbeforeprint",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "onbeforeunload",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "onblur",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "oncancel",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "oncanplay",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "oncanplaythrough",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "onchange",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "onclick",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "onclose",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "oncompassneedscalibration",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "oncontextmenu",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "oncuechange",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "ondblclick",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "ondevicelight",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "ondevicemotion",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "ondeviceorientation",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "ondeviceorientationabsolute",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "ondrag",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "ondragend",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "ondragenter",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "ondragexit",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "ondragleave",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "ondragover",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "ondragstart",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "ondrop",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "ondurationchange",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "onemptied",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "onended",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "onerror",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "onfocus",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "ongotpointercapture",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "onhashchange",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "oninput",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "oninvalid",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "onkeydown",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "onkeypress",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "onkeyup",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "onlanguagechange",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "onload",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "onloadeddata",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "onloadedmetadata",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "onloadstart",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "onlostpointercapture",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "onmessage",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "onmessageerror",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "onmousedown",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "onmouseenter",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "onmouseleave",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "onmousemove",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "onmouseout",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "onmouseover",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "onmouseup",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "onmousewheel",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "onmsgesturechange",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "onmsgesturedoubletap",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "onmsgestureend",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "onmsgesturehold",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "onmsgesturestart",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "onmsgesturetap",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "onmsinertiastart",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "onmspointercancel",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "onmspointerdown",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "onmspointerenter",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "onmspointerleave",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "onmspointermove",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "onmspointerout",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "onmspointerover",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "onmspointerup",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "onoffline",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "ononline",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "onorientationchange",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "onpagehide",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "onpageshow",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "onpause",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "onplay",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "onplaying",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "onpointercancel",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "onpointerdown",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "onpointerenter",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "onpointerleave",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "onpointermove",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "onpointerout",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "onpointerover",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "onpointerup",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "onpopstate",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "onprogress",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "onratechange",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "onreadystatechange",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "onrejectionhandled",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "onreset",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "onresize",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "onscroll",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "onsecuritypolicyviolation",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "onseeked",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "onseeking",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "onselect",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "onselectionchange",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "onselectstart",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "onstalled",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "onstorage",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "onsubmit",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "onsuspend",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "ontimeupdate",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "ontoggle",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "ontouchcancel",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "ontouchend",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "ontouchmove",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "ontouchstart",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "ontransitioncancel",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "ontransitionend",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "ontransitionrun",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "ontransitionstart",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "onunhandledrejection",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "onunload",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "onvolumechange",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "onvrdisplayactivate",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "onvrdisplayblur",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "onvrdisplayconnect",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "onvrdisplaydeactivate",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "onvrdisplaydisconnect",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "onvrdisplayfocus",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "onvrdisplaypointerrestricted",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "onvrdisplaypointerunrestricted",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "onvrdisplaypresentchange",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "onwaiting",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "onwheel",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "open",
+        "kind": "method",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "opener",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "Option",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "orientation",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "origin",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "OscillatorNode",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "outerHeight",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "outerWidth",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "OverconstrainedError",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "OverflowEvent",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "PageTransitionEvent",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "pageXOffset",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "pageYOffset",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "PannerNode",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "parent",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "parseFloat",
+        "kind": "function",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "parseInt",
+        "kind": "function",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "Path2D",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "PaymentAddress",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "PaymentRequest",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "PaymentRequestUpdateEvent",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "PaymentResponse",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "performance",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "Performance",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "PerformanceEntry",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "PerformanceMark",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "PerformanceMeasure",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "PerformanceNavigation",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "PerformanceNavigationTiming",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "PerformanceObserver",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "PerformanceObserverEntryList",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "PerformanceResourceTiming",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "PerformanceTiming",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "PerfWidgetExternal",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "PeriodicWave",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "PermissionRequest",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "PermissionRequestedEvent",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "Permissions",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "PermissionStatus",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "personalbar",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "Plugin",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "PluginArray",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "PointerEvent",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "PopStateEvent",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "postMessage",
+        "kind": "method",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "print",
+        "kind": "method",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "process",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "ProcessingInstruction",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "ProgressEvent",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "Promise",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "PromiseRejectionEvent",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "prompt",
+        "kind": "method",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "Proxy",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "PublicKeyCredential",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "PushManager",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "PushSubscription",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "PushSubscriptionOptions",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "queueMicrotask",
+        "kind": "method",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "RadioNodeList",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "RandomSource",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "Range",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "RangeError",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "ReadableStream",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "ReadableStreamReader",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "ReferenceError",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "Reflect",
+        "kind": "module",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "RegExp",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "releaseEvents",
+        "kind": "method",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "removeEventListener",
+        "kind": "method",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "Request",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "requestAnimationFrame",
+        "kind": "method",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "require",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "resizeBy",
+        "kind": "method",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "resizeTo",
+        "kind": "method",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "Response",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "RTCCertificate",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "RTCDataChannel",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "RTCDataChannelEvent",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "RTCDtlsTransport",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "RTCDtlsTransportStateChangedEvent",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "RTCDtmfSender",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "RTCDTMFSender",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "RTCDTMFToneChangeEvent",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "RTCError",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "RTCErrorEvent",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "RTCIceCandidate",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "RTCIceCandidatePairChangedEvent",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "RTCIceGatherer",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "RTCIceGathererEvent",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "RTCIceTransport",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "RTCIceTransportStateChangedEvent",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "RTCIdentityAssertion",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "RTCPeerConnection",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "RTCPeerConnectionIceErrorEvent",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "RTCPeerConnectionIceEvent",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "RTCRtpReceiver",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "RTCRtpSender",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "RTCRtpTransceiver",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "RTCSctpTransport",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "RTCSessionDescription",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "RTCSrtpSdesTransport",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "RTCSsrcConflictEvent",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "RTCStatsEvent",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "RTCStatsProvider",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "RTCStatsReport",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "RTCTrackEvent",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "ScopedCredential",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "ScopedCredentialInfo",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "screen",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "Screen",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "screenLeft",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "ScreenOrientation",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "screenTop",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "screenX",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "screenY",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "ScriptProcessorNode",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "scroll",
+        "kind": "method",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "scrollbars",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "scrollBy",
+        "kind": "method",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "scrollTo",
+        "kind": "method",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "scrollX",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "scrollY",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "SecurityPolicyViolationEvent",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "Selection",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "self",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "ServiceUIFrameContext",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "ServiceWorker",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "ServiceWorkerContainer",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "ServiceWorkerMessageEvent",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "ServiceWorkerRegistration",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "sessionStorage",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "Set",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "setImmediate",
+        "kind": "function",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "setInterval",
+        "kind": "method",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "setTimeout",
+        "kind": "method",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "ShadowRoot",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "SharedArrayBuffer",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "SharedWorker",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "SourceBuffer",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "SourceBufferList",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "SpeechGrammar",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "SpeechGrammarList",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "SpeechRecognition",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "SpeechRecognitionAlternative",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "SpeechRecognitionEvent",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "SpeechRecognitionResult",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "SpeechRecognitionResultList",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "speechSynthesis",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "SpeechSynthesis",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "SpeechSynthesisErrorEvent",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "SpeechSynthesisEvent",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "SpeechSynthesisUtterance",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "SpeechSynthesisVoice",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "StaticRange",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "status",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "statusbar",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "StereoPannerNode",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "stop",
+        "kind": "method",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "Storage",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "StorageEvent",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "StorageManager",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "String",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "styleMedia",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "StyleMedia",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "StyleSheet",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "StyleSheetList",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "SubtleCrypto",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "SVGAElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "SVGAngle",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "SVGAnimatedAngle",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "SVGAnimatedBoolean",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "SVGAnimatedEnumeration",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "SVGAnimatedInteger",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "SVGAnimatedLength",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "SVGAnimatedLengthList",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "SVGAnimatedNumber",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "SVGAnimatedNumberList",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "SVGAnimatedPreserveAspectRatio",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "SVGAnimatedRect",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "SVGAnimatedString",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "SVGAnimatedTransformList",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "SVGAnimateElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "SVGAnimateMotionElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "SVGAnimateTransformElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "SVGAnimationElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "SVGCircleElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "SVGClipPathElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "SVGComponentTransferFunctionElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "SVGCursorElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "SVGDefsElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "SVGDescElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "SVGElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "SVGElementInstance",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "SVGElementInstanceList",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "SVGEllipseElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "SVGFEBlendElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "SVGFEColorMatrixElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "SVGFEComponentTransferElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "SVGFECompositeElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "SVGFEConvolveMatrixElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "SVGFEDiffuseLightingElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "SVGFEDisplacementMapElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "SVGFEDistantLightElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "SVGFEDropShadowElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "SVGFEFloodElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "SVGFEFuncAElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "SVGFEFuncBElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "SVGFEFuncGElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "SVGFEFuncRElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "SVGFEGaussianBlurElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "SVGFEImageElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "SVGFEMergeElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "SVGFEMergeNodeElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "SVGFEMorphologyElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "SVGFEOffsetElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "SVGFEPointLightElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "SVGFESpecularLightingElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "SVGFESpotLightElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "SVGFETileElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "SVGFETurbulenceElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "SVGFilterElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "SVGForeignObjectElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "SVGGElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "SVGGeometryElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "SVGGradientElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "SVGGraphicsElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "SVGImageElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "SVGLength",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "SVGLengthList",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "SVGLinearGradientElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "SVGLineElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "SVGMarkerElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "SVGMaskElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "SVGMatrix",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "SVGMetadataElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "SVGNumber",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "SVGNumberList",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "SVGPathElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "SVGPathSeg",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "SVGPathSegArcAbs",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "SVGPathSegArcRel",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "SVGPathSegClosePath",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "SVGPathSegCurvetoCubicAbs",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "SVGPathSegCurvetoCubicRel",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "SVGPathSegCurvetoCubicSmoothAbs",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "SVGPathSegCurvetoCubicSmoothRel",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "SVGPathSegCurvetoQuadraticAbs",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "SVGPathSegCurvetoQuadraticRel",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "SVGPathSegCurvetoQuadraticSmoothAbs",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "SVGPathSegCurvetoQuadraticSmoothRel",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "SVGPathSegLinetoAbs",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "SVGPathSegLinetoHorizontalAbs",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "SVGPathSegLinetoHorizontalRel",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "SVGPathSegLinetoRel",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "SVGPathSegLinetoVerticalAbs",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "SVGPathSegLinetoVerticalRel",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "SVGPathSegList",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "SVGPathSegMovetoAbs",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "SVGPathSegMovetoRel",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "SVGPatternElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "SVGPoint",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "SVGPointList",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "SVGPolygonElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "SVGPolylineElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "SVGPreserveAspectRatio",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "SVGRadialGradientElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "SVGRect",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "SVGRectElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "SVGScriptElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "SVGStopElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "SVGStringList",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "SVGStyleElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "SVGSVGElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "SVGSwitchElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "SVGSymbolElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "SVGTextContentElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "SVGTextElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "SVGTextPathElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "SVGTextPositioningElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "SVGTitleElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "SVGTransform",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "SVGTransformList",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "SVGTSpanElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "SVGUnitTypes",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "SVGUseElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "SVGViewElement",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "SVGZoomAndPan",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "SVGZoomEvent",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "Symbol",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "SyncManager",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "SyntaxError",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "Text",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "TextDecoder",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "TextDecoderStream",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "TextEncoder",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "TextEncoderStream",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "TextEvent",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "TextMetrics",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "TextTrack",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "TextTrackCue",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "TextTrackCueList",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "TextTrackList",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "TimeRanges",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "toolbar",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "top",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "toString",
+        "kind": "method",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "Touch",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "TouchEvent",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "TouchList",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "TrackEvent",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "TransformStream",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "TransitionEvent",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "TreeWalker",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "TypeError",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "UIEvent",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "Uint16Array",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "Uint32Array",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "Uint8Array",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "Uint8ClampedArray",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "undefined",
+        "kind": "var",
+        "kindModifiers": "",
+        "sortText": "0"
+      },
+      {
+        "name": "unescape",
+        "kind": "function",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "URIError",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "URL",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "URLSearchParams",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "ValidityState",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "VBArray",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "VideoPlaybackQuality",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "VRDisplay",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "VRDisplayCapabilities",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "VRDisplayEvent",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "VREyeParameters",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "VRFieldOfView",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "VRFrameData",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "VRPose",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "VTTCue",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "VTTRegion",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "WaveShaperNode",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "WeakMap",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "WeakSet",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "WebAssembly",
+        "kind": "module",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "WebAuthentication",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "WebAuthnAssertion",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "WebGL2RenderingContext",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "WebGLActiveInfo",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "WebGLBuffer",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "WebGLContextEvent",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "WebGLFramebuffer",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "WebGLObject",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "WebGLProgram",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "WebGLQuery",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "WebGLRenderbuffer",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "WebGLRenderingContext",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "WebGLSampler",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "WebGLShader",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "WebGLShaderPrecisionFormat",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "WebGLSync",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "WebGLTexture",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "WebGLTransformFeedback",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "WebGLUniformLocation",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "WebGLVertexArrayObject",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "webkitCancelAnimationFrame",
+        "kind": "method",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "webkitConvertPointFromNodeToPage",
+        "kind": "method",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "webkitConvertPointFromPageToNode",
+        "kind": "method",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "WebKitCSSMatrix",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "WebKitPoint",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "webkitRequestAnimationFrame",
+        "kind": "method",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "webkitRTCPeerConnection",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "webkitURL",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "WebSocket",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "WheelEvent",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "window",
+        "kind": "property",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "Window",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "Worker",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "Worklet",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "WritableStream",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "WScript",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "WSH",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "XMLDocument",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "XMLHttpRequest",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "XMLHttpRequestEventTarget",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "XMLHttpRequestUpload",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "XMLSerializer",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "XPathEvaluator",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "XPathExpression",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "XPathResult",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      },
+      {
+        "name": "XSLTProcessor",
+        "kind": "var",
+        "kindModifiers": "declare",
+        "sortText": "0"
+      }
+    ]
+  }
+}
